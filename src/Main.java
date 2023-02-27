@@ -31,7 +31,7 @@ public class Main {
 
 
 
-        if (w1 > l2) {
+        if (w1 >= l2) {
             System.out.print(l1 + w2);
             System.out.print(" ");
             System.out.println(w1);
